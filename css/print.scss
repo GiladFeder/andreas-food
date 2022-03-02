@@ -61,28 +61,3 @@ ul, ol {
 ol li {
 	margin: 10px 0 0 0;
 }
-
-#recipe-details{
-	background-color: rgba(255,255,255,0.05);
-	display: flex;
-	border-radius: 8px;
-	margin: 40px 0;
-	padding: 30px 20px;
-	justify-content: space-around;
-	outline: 2px solid rgba(255,255,255,0.1);
-}
-
-#recipe-details img{
-	width: 32px;
-	margin: 0 0 15px !important;
-}
-
-#recipe-details > div{
-	display: flex;
-	flex-direction: column;
-	justify-content: center;
-	align-items: center;
-	text-transform: uppercase;
-	font-size: 13px;
-}
-

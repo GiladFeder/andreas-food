@@ -7,10 +7,6 @@ layout: default
 		<img src="{{ page.featured_image }}" alt="{{ page.title }}">
 	</div>
 
-	<div class="recipe-body">
-		{{ content }}
-	</div>
-
 	<div id="recipe-details">
 		<div>
 			<img src="https://i.imgur.com/t2KTBq4.png" alt="Recipe Type" />
@@ -30,6 +26,10 @@ layout: default
 			<img src="https://i.imgur.com/u0JSfxp.png" alt="Recipe Protein" />
 			<div class="recipe-detail recipe-protein">{{ page.recipe.protein }}g protein</div>
 		</div>
+	</div>
+
+	<div class="recipe-body">
+		{{ content }}
 	</div>
 
 	<div class="recipe-contents">
