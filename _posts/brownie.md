@@ -1,4 +1,5 @@
 ---
+date: 2017-01-07
 title: Protein Brownies
 categories:
   - Cookies
