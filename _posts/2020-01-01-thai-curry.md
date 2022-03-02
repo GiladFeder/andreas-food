@@ -3,7 +3,7 @@ title: Red Thai Curry
 categories:
   - Cookies
 featured_image: https://i.imgur.com/5GRE41f.png
-  recipe:
+recipe:
   type: lunch/dinner
   duration: 15-20 minutes
   calories: 670
