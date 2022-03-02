@@ -180,19 +180,24 @@
 	padding: 50px 0 0 0;
 }
 
+.preview{
+	padding-top: 20px;
+}
+
 #recipe-details{
-	background-color: rgba(255,255,255,0.05);
+	background-color: rgba(0,0,0,0.05);
 	display: flex;
 	border-radius: 8px;
 	margin: 40px 0;
 	padding: 30px 20px;
 	justify-content: space-around;
-	outline: 2px solid rgba(255,255,255,0.1);
+	outline: 2px solid rgba(0,0,0,0.1);
 }
 
 #recipe-details img{
 	width: 32px;
 	margin: 0 0 15px !important;
+	filter: brightness(0.2);
 }
 
 #recipe-details > div{
