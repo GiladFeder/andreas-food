@@ -2,8 +2,8 @@
 # Site
 
 title: Get Fit With Andreas
-url: "https://spring-bat.cloudvent.net/"
-baseurl:
+url: "https://giladfeder.github.io/andreas-food/"
+baseurl: "https://giladfeder.github.io/andreas-food/"
 google_analytics_key:
 newsletter_action:
 disqus_shortname:
