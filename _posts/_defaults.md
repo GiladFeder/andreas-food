@@ -3,9 +3,10 @@ title:
 categories:
 featured_image:
 recipe:
-  servings:
-  prep:
-  cook:
+  type:
+  duration:
+  calories:
+  protein:
   ingredients_markdown:
   directions_markdown:
 ---
