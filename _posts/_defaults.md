@@ -1,7 +1,6 @@
 ---
 title:
 categories:
-date:
 featured_image:
 recipe:
   servings:
